@@ -1,4 +1,4 @@
-##ISHTAH ~ RPG
+# ISHTAH - RPG
 
 ## Atributos
 
@@ -66,7 +66,7 @@
 
 #### Em caso de hacking:
 * Naves em perseguição podem ser hackeadas se não houver um especialista do outro lado
- TODO: especificar regras
+* O Hacker realiza um teste utilizando o bonusa de hacking + o bonus do computador; Necessário sucesso esplêndido.
 
 #### Em caso de manobra:
 * O piloto de uma nave pode tentar uma manobra para confundir o piloto adversário.
