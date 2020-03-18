@@ -1,9 +1,12 @@
+#ISHTAH - RPG
+
+
 ## Testes
 
 #### Em caso de testes básicos:
 1. Jogar Xd10, sendo X o número de pontos na determinada habilidade.
 2. Comparar resultado com a lista abaixo:
-  * 1  (No resultado do dado)  => Falha crítica
+  * 1 (No resultado do dado)  => Falha crítica
   * 2-3 => Falha literal
   * 4-5 => Falha moderada
   * 6-7 => Sucesso moderado
@@ -14,6 +17,7 @@
 1. Jogar Xd10, sendo X o número de pontos na determinada habilidade;
 2. Somar o atributo mais pertinente a ação;
 3. Comparar com o teto definido pelo mestre, ou o resultado do teste do adversário.
+4. No caso de empate. A vitória será do adversário.
 
 
 ## Combate com armas de fogo:
