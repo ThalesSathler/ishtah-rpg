@@ -1,4 +1,13 @@
-##ISHTAH - RPG
+##ISHTAH ~ RPG
+
+## Atributos
+
+#### Atributos principais
+* Força
+* Destreza
+* Intelecto
+* Vontade
+* Constituição
 
 
 ## Testes
@@ -7,10 +16,10 @@
 1. Jogar Xd10, sendo X o número de pontos na determinada habilidade.
 2. Comparar resultado com a lista abaixo:
   * 1 (No resultado do dado)  => Falha crítica
-  * 2-3 => Falha literal
-  * 4-5 => Falha moderada
-  * 6-7 => Sucesso moderado
-  * 8-9 => Sucesso esplêndido
+  * 2~3 => Falha literal
+  * 4~5 => Falha moderada
+  * 6~7 => Sucesso moderado
+  * 8~9 => Sucesso esplêndido
   * 10 (No resultado do dado) => Sucesso crítico
 
 #### Em caso de testes de competição:
@@ -18,6 +27,16 @@
 2. Somar o atributo mais pertinente a ação;
 3. Comparar com o teto definido pelo mestre, ou o resultado do teste do adversário.
 4. No caso de empate. A vitória será do adversário.
+
+#### Em caso de testes que a pontuação de habilidade é 0:
+1. Jogar 1d10;
+2. Subtrair 2;
+3. Comparar resultado com a lista abaixo:
+  * 1 (No resultado do dado)  => Falha crítica
+  * 1~3 => Falha literal
+  * 4~5 => Falha moderada
+  * 6~7 => Sucesso moderado
+  * 10 (No resultado do dado) => Sucesso crítico
 
 
 ## Combate com armas de fogo:
