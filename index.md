@@ -1,6 +1,6 @@
 ## Testes
 
-#### Para realizar testes básicos, é seguido o protocolo:
+#### Em caso de testes básicos:
 1. Jogar Xd10, sendo X o número de pontos na determinada habilidade.
 2. Comparar resultado com a lista abaixo:
   * 1  (No resultado do dado)  => Falha crítica
@@ -10,7 +10,7 @@
   * 8-9 => Sucesso esplêndido
   * 10 (No resultado do dado) => Sucesso crítico
 
-#### No caso de testes de competição: é seguido o protocolo:
+#### Em caso de testes de competição:
 1. Jogar Xd10, sendo X o número de pontos na determinada habilidade;
 2. Somar o atributo mais pertinente a ação;
 3. Comparar com o teto definido pelo mestre, ou o resultado do teste do adversário.
