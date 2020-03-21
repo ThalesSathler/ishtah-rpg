@@ -35,11 +35,12 @@
   * 1 (No resultado do dado)  => Falha crítica
   * 1~3 => Falha literal
   * 4~5 => Falha moderada
-  * 6~7 => Sucesso moderado
+  * 6 => Sucesso moderado
+  * 7 => Sucesso esplêndido
   * 10 (No resultado do dado) => Sucesso crítico
 
 
-## Combate com armas de fogo:
+## Combate a distância:
 
 #### Em caso de disparo:
 * Será realizado um teste utilizando o bônus de mira contra um teste de esquiva do adversário.
